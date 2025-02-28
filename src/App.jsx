@@ -71,7 +71,7 @@ function App() {
 return (
     <div className="App">
         <div className="header">
-            <img src="src/assets/awning.png" alt="" />
+            <img src="https://heroic-pixie-6d7f91.netlify.app/awning.png" alt="" />
             <h1>Food Truck Favorites</h1>
         </div>
         <div className="content">
