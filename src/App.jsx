@@ -46,6 +46,26 @@ function App() {
             cuisine: "Greek",
             image: "https://kingsouvlakinyc.com/wp-content/themes/king/images/location-f.jpg",
           },
+          {
+            name: "Uncle Gussy's",
+            cuisine: "Greek",
+            image: "https://d3hbe0kmbam4a5.cloudfront.net/photos/67e1cdb7-bc27-4f26-8343-851bfaa7fc22.jpg",
+          },
+          {
+            name: "Patacon Pisao",
+            cuisine: "Venezuelan",
+            image: "https://live.staticflickr.com/8088/8400188739_53b16c7d13_z.jpg",
+          },
+          {
+            name: "Mom's Mono",
+            cuisine: "Tibetan",
+            image: "https://infatuation.imgix.net/media/images/reviews/moms-momo/banners/1606245507.888788.png",
+          },
+          {
+            name: "Makina Cafe",
+            cuisine: "Ethiopian",
+            image: "https://fastly.4sqi.net/img/general/600x600/784042_29bZZHPGisHnWqyIuuXMo8D2zzW7QS6Hft7Vv15SH_I.jpg",
+          },
 
       ];
 return (
